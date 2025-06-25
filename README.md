@@ -8,4 +8,3 @@ Landing page da WATTz pronta para deploy na Vercel.
 2. Vá para [vercel.com](https://vercel.com), conecte o GitHub
 3. Clique em "Add New Project", selecione esse repo
 4. Deploy automático feito!
-
