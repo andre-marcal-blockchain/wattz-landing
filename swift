@@ -1,0 +1,3 @@
+app/
+components/ui/
+public/
